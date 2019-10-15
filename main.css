@@ -1,28 +1,4 @@
-.navigation {
-    list-style-type: none;
-    background-color: powderblue;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    font-family: 'Quicksand', sans-serif;
 
-}
-
-.navigation li {
-    float: left;
-    font-family: 'Quicksand', sans-serif;
-
-}
-
-.navigation li a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-family: 'Quicksand', sans-serif;
-
-}
 
 #about, #education, #professionalExp, #professionalDev, #skills, #awards {
     padding-left: 10px;
